@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AACQ,gEAAwD;ACChE,MAAM;EACJ,gBAAgB,EAAE,mCAAmC",
-"sources": ["lib/_mixin.scss","seg.scss"],
-"names": [],
-"file": "seg.css"
-}
