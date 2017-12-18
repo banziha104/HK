@@ -11,7 +11,7 @@ import {
 import FixedMenu from './FixedMenu'
 import '../style/seg.css'
 class TopMenu extends Component {
-  state = {}
+  state = {};
 
   hideFixedMenu = () => this.setState({visible: false})
   showFixedMenu = () => this.setState({visible: true})

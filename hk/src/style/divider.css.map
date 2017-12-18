@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AACQ,gEAAwD;ACChE,gBAAgB;ED6Bd,WAAW,EAAE,WAAW;EACxB,QAAQ,EAAE,KAAK;EACf,UAAU,EAAE,QAAQ;EACpB,YAAY,EAAE,CAAC;EACf,KAAK,EAAE,IAAI",
+"mappings": "AACQ,gEAAwD;ACChE,gBAAgB;ED6Bd,WAAW,EAAE,WAAW;EACxB,QAAQ,EAAE,KAAK;EACf,UAAU,EAAE,QAAQ;EACpB,YAAY,EAAE,CAAC;EACf,KAAK,EAAE,IAAI;EC9BX,oBAAI;IACF,gBAAgB,EAAE,KAAK",
 "sources": ["lib/_mixin.scss","divider.scss"],
 "names": [],
 "file": "divider.css"

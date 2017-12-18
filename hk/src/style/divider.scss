@@ -2,4 +2,8 @@
 
 .dividerSubTitle{
   @include setSubFont();
+
+  .ab {
+    background-color: white;
+  }
 }
